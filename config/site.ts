@@ -1,13 +1,14 @@
 export const siteConfig = {
-  name: "Naman Barkiya - Applied AI Engineer",
-  authorName: "Naman Barkiya",
-  username: "namanbarkiya",
+  name: "Hammad Ali - Medical Student",
+  authorName: "Hammad Ali",
+  username: "hehadname",
   description:
-    "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
-  url: "https://nbarkiya.xyz",
+    "Hammad Ali - Medical student passionate about healthcare, medicine, and science.",
+  url: "https://hammad-portfolio.vercel.app",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
+    linkedin: "https://www.linkedin.com/in/hammadali0/",
+    youtube: "https://www.youtube.com/@bursjourney",
+    github: "https://github.com/hehadname",
     templateRepo: "https://github.com/namanbarkiya/minimal-next-portfolio",
   },
   ogImage:
