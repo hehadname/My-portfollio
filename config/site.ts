@@ -6,11 +6,13 @@ export const siteConfig = {
     "Hammad Ali - Medical student passionate about healthcare, medicine, and science.",
   url: "https://hammad-portfolio.vercel.app",
   links: {
+    twitter: "https://x.com/yourusername",
     linkedin: "https://www.linkedin.com/in/hammadali0/",
     youtube: "https://www.youtube.com/@bursjourney",
     github: "https://github.com/hehadname",
     templateRepo: "https://github.com/namanbarkiya/minimal-next-portfolio",
   },
+};
   ogImage:
     "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/naman_portfolio_og_image.png",
   iconIco:
